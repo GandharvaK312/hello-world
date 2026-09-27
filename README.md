@@ -1,6 +1,6 @@
 ## Hello World - Version Control Basics
 
-This repository is my first version-controlled project, created for the Portfolio Building course (B25CS0311). It serves as a foundational artifact demonstrating the setup of my development environment and basic Git/GitHub workflows[cite: 7].
+This repository is my first version-controlled project, created for the Portfolio Building course (B25CS0311). It serves as a foundational artifact demonstrating the setup of my development environment and basic Git/GitHub workflows.
 
 ### Contents
 
